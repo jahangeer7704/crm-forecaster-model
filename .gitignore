@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+fcm/
+
+# Logs
+*.log
+
+# Jupyter and system files
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# Environment variables
+.env
